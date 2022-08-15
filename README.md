@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @qhliu26
-- 👀 I’m interested in Machine learning and signal processing
-- 🌱 I’m currently learning specch processing
-- 📫 How to reach me 18059302018@163.com
+- 👋 Website: https://qhliu26.github.io
+- 🎒 Location: Shenzhen, China
+- 👀 Research Interest: Multimodal Machine Learning, Speech Processing
+- 📫 Email: qhliu26@gmail.com
+- 💬 Wechat: maxliu26
+- 🌱 Blog: [Zhihu](https://www.zhihu.com/people/hmax-75)
+
 
 <!---
 qhliu26/qhliu26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
