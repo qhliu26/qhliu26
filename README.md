@@ -1,6 +1,6 @@
 - 👋 Website: https://qhliu26.github.io
 - 🎒 Location: Shenzhen, China
-- 👀 Research Interest: Multimodal Machine Learning, Speech Processing
+- 👀 Research Interest: Time-Series Data Mining, Speech Processing, Multimodal Machine Learning
 - 📫 Email: qhliu26@gmail.com
 - 💬 Wechat: maxliu26
 - 🌱 Blog: [Zhihu](https://www.zhihu.com/people/hmax-75)
