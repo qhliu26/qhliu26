@@ -1,5 +1,5 @@
 - 👋 Website: https://qhliu26.github.io
-- 🎒 Location: Shenzhen, China
+- 🎒 Location: Columbus, USA
 - 👀 Research Interest:
 - Time-Series Data Mining, Anomaly Detection
 - Speech Processing, Speech Separation, Multimodal Machine Learning
